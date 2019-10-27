@@ -21,9 +21,5 @@ namespace Lab_8._1
             this.carSpeed = carSpeed;
             this.carYearOfCreating = carYearOfCreating;
         }
-        public override string ToString()
-        {
-            return $"{carName} - {carColor} - {CarSpeed} - {carYearOfCreating}";
-        }
     }
 }

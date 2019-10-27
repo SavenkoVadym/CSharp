@@ -54,86 +54,51 @@ namespace Lab_8._1
         {
             Cars.Add(EnterData());
         }
-        //public void PopCar()
-        //{
-        //    if (true)
-        //    {
-
-        //    }
-        //    else
-        //    {
-        //      Cars.Remove(EnterData());
-        //    }
-        //}
         public void ViewCars()
         {
             Console.WriteLine("All your cars:");
-            Console.WriteLine("Name->Color->Speed->Year of creation\n");
-            foreach (var item in Cars)
+            Console.WriteLine(" №->Name->Color->Speed->Year of creation\n");
+            for (int i = 0; i < Cars.Count; i++)
             {
-                Console.WriteLine($"{item.CarName} - {item.CarColor} - {item.CarSpeed} - {item.CarYearOfCreating}");
-                //Console.WriteLine(item.ToString());
+                Console.WriteLine($"{i + 1} - {Cars[i].CarName} - {Cars[i].CarColor} - {Cars[i].CarSpeed} - {Cars[i].CarYearOfCreating}");
             }
+        }
+        public void PopCar()
+        {
+            ViewCars();
+            int a;
+            do
+            {
+                Console.Write("Enter number of car what You want delete:");
+                a = Convert.ToInt32(Console.ReadLine());
+                if (a < 1 || a > Cars.Count + 1)
+                {
+                    Console.WriteLine("Incorrect number of car! Try again");
+                }
+                else
+                {
+                    Console.WriteLine("Remove successful");
+                }
+            } while (a < 1 || a > Cars.Count + 1);
+            Cars.RemoveAt(a - 1);
         }
         public void GetCar()
         {
             ViewCars();
-            string name, colour;
-            double? speed;
-            int? year;
-            Console.Write($"Name of car: ");
-            name = Console.ReadLine();
-            Console.Write($"Colour of car: ");
-            colour = Console.ReadLine();
-            Console.Write($"Speed of car: ");
-            speed = Convert.ToDouble(Console.ReadLine()) != 0 ? Convert.ToDouble(Console.ReadLine()) : 0;
-            Console.Write($"Year of car: ");
-            year = Convert.ToInt32(Console.ReadLine());
-            List<Car> result = new List<Car>();
-            if (name != "")
+            int a;
+            do
             {
-                foreach (var item in Cars)
+                Console.Write("What nubber of car do you want to take? ");
+                a = Convert.ToInt32(Console.ReadLine());
+                if (a - 1 < 0 || a - 1 > Cars.Count)
                 {
-                    if (item.CarName == name)
-                    {
-                        result.Add(item);
-                    }
+                    Console.WriteLine("Incorrect number of Car. Try again");
                 }
-            }
-            if (colour != "")
-            {
-                foreach (var item in Cars)
+                else
                 {
-                    if (item.CarColor == colour)
-                    {
-                        result.Add(item);
-                    }
+                    Console.WriteLine("Successful trip");
                 }
-            }
-            if (speed != null)
-            {
-                foreach (var item in Cars)
-                {
-                    if (item.CarSpeed == speed)
-                    {
-                        result.Add(item);
-                    }
-                }
-            }
-            if (year != null)
-            {
-                foreach (var item in Cars)
-                {
-                    if (item.CarYearOfCreating == year)
-                    {
-                        result.Add(item);
-                    }
-                }
-            }
-            foreach (var item in result)
-            {
-                Console.WriteLine(item.ToString());
-            }
+            } while (a - 1 < 0 || a - 1 > Cars.Count) ;
         }
     }
 }
