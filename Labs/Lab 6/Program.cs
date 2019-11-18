@@ -27,6 +27,7 @@ namespace Lab_6
                 }
                 else
                 {
+                    // 18 - способ выйти из заполнения списка
                     if (a != 18)
                     {
                         Console.WriteLine("Incorrect data. Might be only \"0\" or \"1\". Try again");

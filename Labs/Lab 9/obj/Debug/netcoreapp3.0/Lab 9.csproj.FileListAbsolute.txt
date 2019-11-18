@@ -1,0 +1,10 @@
+D:\CSarpHW\CSharp\Labs\Lab 9\bin\Debug\netcoreapp3.0\Lab 9.exe
+D:\CSarpHW\CSharp\Labs\Lab 9\bin\Debug\netcoreapp3.0\Lab 9.deps.json
+D:\CSarpHW\CSharp\Labs\Lab 9\bin\Debug\netcoreapp3.0\Lab 9.runtimeconfig.json
+D:\CSarpHW\CSharp\Labs\Lab 9\bin\Debug\netcoreapp3.0\Lab 9.runtimeconfig.dev.json
+D:\CSarpHW\CSharp\Labs\Lab 9\bin\Debug\netcoreapp3.0\Lab 9.dll
+D:\CSarpHW\CSharp\Labs\Lab 9\bin\Debug\netcoreapp3.0\Lab 9.pdb
+D:\CSarpHW\CSharp\Labs\Lab 9\obj\Debug\netcoreapp3.0\Lab 9.AssemblyInfoInputs.cache
+D:\CSarpHW\CSharp\Labs\Lab 9\obj\Debug\netcoreapp3.0\Lab 9.AssemblyInfo.cs
+D:\CSarpHW\CSharp\Labs\Lab 9\obj\Debug\netcoreapp3.0\Lab 9.dll
+D:\CSarpHW\CSharp\Labs\Lab 9\obj\Debug\netcoreapp3.0\Lab 9.pdb
