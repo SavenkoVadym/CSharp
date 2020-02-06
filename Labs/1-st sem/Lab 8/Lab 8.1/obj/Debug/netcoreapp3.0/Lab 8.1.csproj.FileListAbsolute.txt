@@ -1,0 +1,11 @@
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\bin\Debug\netcoreapp3.0\Lab 8.1.exe
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\bin\Debug\netcoreapp3.0\Lab 8.1.deps.json
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\bin\Debug\netcoreapp3.0\Lab 8.1.runtimeconfig.json
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\bin\Debug\netcoreapp3.0\Lab 8.1.runtimeconfig.dev.json
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\bin\Debug\netcoreapp3.0\Lab 8.1.dll
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\bin\Debug\netcoreapp3.0\Lab 8.1.pdb
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\obj\Debug\netcoreapp3.0\Lab 8.1.csprojAssemblyReference.cache
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\obj\Debug\netcoreapp3.0\Lab 8.1.AssemblyInfoInputs.cache
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\obj\Debug\netcoreapp3.0\Lab 8.1.AssemblyInfo.cs
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\obj\Debug\netcoreapp3.0\Lab 8.1.dll
+D:\CSarpHW\CSharp\Labs\Lab8\Lab 8.1\obj\Debug\netcoreapp3.0\Lab 8.1.pdb
