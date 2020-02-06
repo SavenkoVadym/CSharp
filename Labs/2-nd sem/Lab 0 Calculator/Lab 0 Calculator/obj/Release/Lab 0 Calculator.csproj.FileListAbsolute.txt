@@ -1,0 +1,9 @@
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\bin\Release\Lab 0 Calculator.exe.config
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\bin\Release\Lab 0 Calculator.exe
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\bin\Release\Lab 0 Calculator.pdb
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\obj\Release\Lab 0 Calculator.csprojAssemblyReference.cache
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\obj\Release\Lab_0_Calculator.Form1.resources
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\obj\Release\Lab_0_Calculator.Properties.Resources.resources
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\obj\Release\Lab 0 Calculator.csproj.GenerateResource.cache
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\obj\Release\Lab 0 Calculator.exe
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 0 Calculator\Lab 0 Calculator\obj\Release\Lab 0 Calculator.pdb
