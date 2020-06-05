@@ -1,0 +1,10 @@
+D:\programing\kursova\Calculator\bin\Release\Calculator.exe.config
+D:\programing\kursova\Calculator\bin\Release\Calculator.exe
+D:\programing\kursova\Calculator\bin\Release\Calculator.pdb
+D:\programing\kursova\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+D:\programing\kursova\Calculator\obj\Release\Calculator.Form1.resources
+D:\programing\kursova\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\programing\kursova\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+D:\programing\kursova\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\programing\kursova\Calculator\obj\Release\Calculator.exe
+D:\programing\kursova\Calculator\obj\Release\Calculator.pdb
