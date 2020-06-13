@@ -1,0 +1,9 @@
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\bin\Debug\Lab 3.exe.config
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\bin\Debug\Lab 3.exe
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\bin\Debug\Lab 3.pdb
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\obj\Debug\Lab 3.exe
+D:\CSarpHW\CSharp\Labs\2-nd sem\Lab 3\obj\Debug\Lab 3.pdb
